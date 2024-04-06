@@ -1,0 +1,7 @@
+{
+    "cmake.buildEnvironment": {
+        "PICO_SDK_PATH": "~/git/pico-sdk"
+    },
+    "cmake.generator": "Unix Makefiles",
+    "cmake.options.statusBarVisibility": "visible"
+}
